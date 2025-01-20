@@ -51,3 +51,9 @@ We have mentioned how to obtain scores with `MC-DSim`, `Seq-Logprob`, `COMET`, `
     url = "https://aclanthology.org/2023.eacl-main.75",
 }
 ```
+
+# Setup Info
+
+Recommended Python Version 3.9.18.
+
+If Python version > 3.10, then `fairseq` causes importing errors.
